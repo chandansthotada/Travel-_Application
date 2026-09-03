@@ -29,7 +29,7 @@ A modern, responsive travel discovery website built with **React**, **TypeScript
 | Styling | [Tailwind CSS](https://tailwindcss.com/) + custom CSS |
 | Icons | [Lucide React](https://lucide.dev/) |
 | Linting | ESLint (typescript-eslint, react-hooks, react-refresh) |
-| Backend (ready) | [Supabase JS SDK](https://supabase.com/docs/reference/javascript) — included as a dependency for future persistence (e.g. saved trips, auth) |
+
 
 ---
 
