@@ -2,7 +2,7 @@
 
 A modern, responsive travel discovery website built with **React**, **TypeScript**, and **Tailwind CSS**. Bharat Yatra lets travelers explore India's most iconic destinations, filter by state or mood, save favorites, view live weather-style stats, and chat with an AI-style travel guide to plan a personalized trip.
 
-> Live demo:https://travel-application-two.vercel.app
+> Live demo:  https://travel-application-two.vercel.app
 
 ---
 
@@ -24,7 +24,7 @@ A modern, responsive travel discovery website built with **React**, **TypeScript
 
 | Category | Technology |
 |---|---|
-| Framework | [React 18](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
+| Framework | [React 18](https://react.dev/)  |
 | Build Tool | [Vite 5](https://vitejs.dev/) |
 | Styling | [Tailwind CSS](https://tailwindcss.com/) + custom CSS |
 | Icons | [Lucide React](https://lucide.dev/) |
